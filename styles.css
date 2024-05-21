@@ -755,8 +755,13 @@ a {
     }
 
     .img-first, .img-second {
-        width: 318px;
-        height: 303px;
+        width: 268px;
+        height: 253px;
+    }
+
+    .img-second {
+        top: 42px;
+        left: 30px;
     }
 
     .about-us__body__info {
