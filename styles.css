@@ -629,7 +629,7 @@ a {
     /* display: flex;
     justify-content: space-between; */
     display: grid;
-    grid-template-columns: 3fr repeat(3, 1fr);
+    grid-template-columns: 3fr 2fr 1fr 1fr;
     gap: 122px;
 
     margin-bottom: 60px;
