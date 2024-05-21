@@ -804,6 +804,11 @@ a {
         height: 236px;
     }
 
+    .img-second {
+        top: 35px;
+        left: 26px;
+    }
+
     .about-us__body__info__checked {
         display: flex;
         justify-content: center;
